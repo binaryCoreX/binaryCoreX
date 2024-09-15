@@ -1,0 +1,16 @@
+# This is Git's per-user configuration file.
+[user]
+	name = imtiaz-abdurrahim
+	email = imtiaz.abdurrahim@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = imtiaz
+#	email = imtiaz@linux.(none)
+[init]
+	defaultbranch = main
+[core]
+	autocrlf = input
+[color]
+	status = auto
+	branch = auto
+	interactive = auto
+	diff = auto
