@@ -29,6 +29,7 @@ This is `inline code`.
 ```bash
 # Code block for commands or scripts
 npm install
+```
 
 # Code block for programming languages
 print("Hello, World!")
@@ -40,7 +41,7 @@ print("Hello, World!")
 |----------|----------|----------|
 | Row 1    | Data     | More Data|
 | Row 2    | Data     | More Data|
-
+```
 > This is a blockquote.
 > It can span multiple lines.
 
@@ -62,6 +63,7 @@ print("Hello, World!")
 Run this command to install:
 ```bash
 npm install myproject
+```
 
 import myproject
 myproject.run()
@@ -75,5 +77,6 @@ Here is a sentence with a footnote[^1].
 ```javascript
 const greeting = "Hello, World!";
 console.log(greeting);
+```
 
 
